@@ -1,0 +1,29 @@
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do Node (Frontend)
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar arquivos do Java/Maven (Backend)
+.mvn/
+target/
+*.jar
+*.war
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos de IDEs
+.idea/
+*.iml
+*.iws
+.vscode/
+*.swp
+
+# Ignorar arquivos do Docker
+docker-compose.override.yml

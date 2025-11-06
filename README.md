@@ -237,6 +237,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **⭐ Se este projeto te ajudou, deixe uma estrela! ⭐**
 
-*Desenvolvido com ❤️ para facilitar a gestão de supermercados*
+*Desenvolvido por Eduardo*
 
 </div>
